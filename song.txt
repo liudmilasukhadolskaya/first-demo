@@ -9,5 +9,3 @@ Line8
 
 Text
 \
- New couplet
-____
